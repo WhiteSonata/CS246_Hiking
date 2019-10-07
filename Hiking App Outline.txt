@@ -1,0 +1,18 @@
+﻿Hiking App Outline - 10/07/2019
+
+
+Expected features:
+* Hikes
+   * Miles
+   * Slope
+   * Difficulty
+   * Age friendly
+   * Pets Allowed
+   * Location
+
+
+
+
+* Map View: Shows on a map where the hikes are~!
+* List View: Shows a list of available hikes
+   * Method to sort the hikes by any hike attribute
